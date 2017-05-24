@@ -1,0 +1,6 @@
+.project
+.pydevproject
+
+src/ap_python_sdk.egg-info/*
+src/build/*
+src/dist/*
