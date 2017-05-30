@@ -131,8 +131,8 @@ def __create_brazil_pay_boleto_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -167,8 +167,8 @@ def __create_brazil_pay_bank_transfer_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -195,8 +195,8 @@ def __create_mistercash_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -223,8 +223,8 @@ def __create_teleingreso_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -251,8 +251,8 @@ def __create_safetypay_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -279,8 +279,8 @@ def __create_poli_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -308,8 +308,8 @@ def __create_ideal_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -336,8 +336,8 @@ def __create_trustpay_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -364,8 +364,8 @@ def __create_przelewy24_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -393,8 +393,8 @@ def __create_giropay_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -426,8 +426,8 @@ def __create_credit_card_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -454,8 +454,8 @@ def __create_directpay_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
@@ -483,8 +483,8 @@ def __create_directpaymax_transaction():
     )
 
     redirectUrls = RedirectUrls(
-        returnUrl='http://plugins.alternativepayments.com/message/success.html',
-        cancelUrl='http://plugins.alternativepayments.com/message/failure.html'
+        returnUrl='http://2000charge.com/message/success.html',
+        cancelUrl='http://2000charge.com/message/failure.html'
     )
 
     return Transaction.create({
